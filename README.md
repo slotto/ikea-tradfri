@@ -166,7 +166,7 @@ by tracking a connected device.
 ### Getting a Device
 
 Using the `tradfri` variable created
-above, you call `tradfi.device(name)` where `name` is the name of the device
+above, you call `tradfri.device(name)` where `name` is the name of the device
 you are looking for.  It will return the approriate class for `name` or
 `undefined` if it is not found.
 
